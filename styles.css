@@ -4,8 +4,8 @@
 }
 
 #container::before{
-	content: "Before Element ";
-	color : #f00;
+	content: "Before Element";
+	color : rgb(255, 0, 0);
 	font-size: 20px;
 }
 
